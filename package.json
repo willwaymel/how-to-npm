@@ -1,0 +1,19 @@
+{
+  "name": "biennial_readings",
+  "version": "1.0.0",
+  "description": "Biennial readings for morning prayer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willwaymel/how-to-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/willwaymel/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/willwaymel/how-to-npm#readme"
+}
