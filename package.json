@@ -1,6 +1,6 @@
 {
   "name": "biennial_readings",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Biennial readings for morning prayer.",
   "main": "index.js",
   "scripts": {
